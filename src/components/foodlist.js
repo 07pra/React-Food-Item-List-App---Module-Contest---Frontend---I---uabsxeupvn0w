@@ -105,4 +105,4 @@ function FoodList() {
 }
 
 export default FoodList;
-Footer
+
